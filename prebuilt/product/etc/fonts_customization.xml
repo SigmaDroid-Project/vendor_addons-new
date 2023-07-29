@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts-modification version="1">
+    <family customizationType="new-named-family" name="harmoniasans">
+	<font weight="400" style="normal">HarmoniaSansCondensed.ttf</font>
+	<font weight="400" style="italic">HarmoniaSansCondensed.ttf</font>
+	<font weight="700" style="normal">HarmoniaSansCondensed.ttf</font>
+	<font weight="700" style="italic">HarmoniaSansCondensed.ttf</font>
+	</family>
+	<alias name="harmoniasans-regular" to="harmoniasans" weight="400" />
+	<alias name="harmoniasans-bold" to="harmoniasans" weight="700" />
+
+	<family customizationType="new-named-family" name="twcenmt">
+	<font weight="400" style="normal">TwCenMTCondensed.ttf</font>
+	<font weight="400" style="italic">TwCenMTCondensed.ttf</font>
+	<font weight="700" style="normal">TwCenMTCondensed.ttf</font>
+	<font weight="700" style="italic">TwCenMTCondensed.ttf</font>
+	</family>
+	<alias name="twcenmt-regular" to="twcenmt" weight="400" />
+	<alias name="twcenmt-bold" to="twcenmt" weight="700" />
+
+	<family customizationType="new-named-family" name="jetbrains">
+	<font weight="400" style="normal">JetBrainsMono-Regular.ttf</font>
+	<font weight="400" style="italic">JetBrainsMono-Italic.ttf</font>
+	<font weight="700" style="normal">JetBrainsMono-Bold.ttf</font>
+	<font weight="700" style="italic">JetBrainsMono-BoldItalic.ttf</font>
+	</family>
+	<alias name="jetbrains-regular" to="jetbrains" weight="400" />
+	<alias name="jetbrains-bold" to="jetbrains" weight="700" />
+
+	<family customizationType="new-named-family" name="sulphurpoint">
+	<font weight="400" style="normal">SulphurPoint-Regular.ttf</font>
+	<font weight="400" style="italic">SulphurPoint-Italic.ttf</font>
+	<font weight="700" style="normal">SulphurPoint-Bold.ttf</font>
+	<font weight="700" style="italic">SulphurPoint-Bolditalic.ttf</font>
+	</family>
+	<alias name="sulphurpoint-regular" to="sulphurpoint" weight="400" />
+	<alias name="sulphurpoint-bold" to="sulphurpoint" weight="700" />
+
+	<family customizationType="new-named-family" name="orionpro">
+	<font weight="400" style="normal">Orion-Regular.ttf</font>
+	<font weight="400" style="italic">Orion-Italic.ttf</font>
+	<font weight="700" style="normal">Orion-Bold.ttf</font>
+	<font weight="700" style="italic">Orion-Bolditalic.ttf</font>
+	</family>
+	<alias name="orionpro-regular" to="orionpro" weight="400" />
+	<alias name="orionpro-medium" to="orionpro" weight="700" />
+
+	<family customizationType="new-named-family" name="martianmono">
+	<font weight="400" style="normal">MartianMono-Regular.ttf</font>
+	<font weight="700" style="normal">MartianMono-Bold.ttf</font>
+	</family>
+	<alias name="martianmono-regular" to="martianmono" weight="400" />
+	<alias name="martianmono-medium" to="martianmono" weight="700" />
+
+    <family customizationType="new-named-family" name="iosevka">
+	<font weight="400" style="normal">iosevka-regular.ttf</font>
+	<font weight="400" style="italic">iosevka-italic.ttf</font>
+	<font weight="700" style="normal">iosevka-bold.ttf</font>
+	<font weight="700" style="italic">iosevka-bolditalic.ttf</font>
+	</family>
+	<alias name="iosevka-regular" to="iosevka" weight="400" />
+	<alias name="iosevka-bold" to="iosevka" weight="700" />
 
     <!-- Accuratist -->
     <family customizationType="new-named-family" name="accuratist">

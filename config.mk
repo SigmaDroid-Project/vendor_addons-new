@@ -162,7 +162,14 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontOppoSansOverlay \
-    FontUbuntuOverlay
+    FontUbuntuOverlay \
+    FontHarmoniaSansOverlay \
+    FontTwCenMtOverlay \
+    FontJetBrainsOverlay \
+    FontMartianMonoOverlay \
+    FontOrionProOverlay \
+    FontSulphurPointOverlay \
+    FontIosevkaOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
