@@ -385,6 +385,15 @@ PRODUCT_PACKAGES += \
     QSSurroundOverlay \
     QSThinOutlineOverlay
 
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer
+
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
