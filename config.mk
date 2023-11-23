@@ -392,7 +392,8 @@ PRODUCT_PACKAGES += \
     VolumeNeumorph \
     VolumeNeumorphOutline \
     VolumeOutline \
-    VolumeShadedLayer
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
 
 # Themes
 PRODUCT_PACKAGES += \
