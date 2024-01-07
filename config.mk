@@ -388,6 +388,11 @@ PRODUCT_PACKAGES += \
     QSSurroundOverlay \
     QSThinOutlineOverlay
 
+# Utility Overlays
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset
+
 # Volume Styles
 PRODUCT_PACKAGES += \
     VolumeDoubleLayer \
