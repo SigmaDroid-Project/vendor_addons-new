@@ -383,6 +383,11 @@ PRODUCT_PACKAGES += \
     SolarizedThemeSettingsOverlay \
     SolarizedThemeSystemUIOverlay
 
+# Utility Overlays
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset
+
 # Volume Styles
 PRODUCT_PACKAGES += \
     VolumeDoubleLayer \
