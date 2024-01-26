@@ -362,9 +362,6 @@ PRODUCT_PACKAGES += \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
     AndroidVividThemeOverlay \
-    NexodusThemeAndroidOverlay \
-    NexodusThemeSettingsOverlay \
-    NexodusThemeSystemUIOverlay \
     PacleggersThemeAndroidOverlay \
     PacleggersThemeSettingsOverlay \
     PacleggersThemeSystemUIOverlay \
@@ -379,7 +376,10 @@ PRODUCT_PACKAGES += \
     ShishuImmensityThemeSystemUIOverlay \
     ShishuNightsThemeAndroidOverlay \
     ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay
+    ShishuNightsThemeSystemUIOverlay \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay
 
 # Utility Overlays
 PRODUCT_PACKAGES += \
