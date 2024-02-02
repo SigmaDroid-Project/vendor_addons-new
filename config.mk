@@ -157,7 +157,10 @@ PRODUCT_PACKAGES += \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
-    FontUbuntuOverlay
+    FontUbuntuOverlay \
+    FontHarmoniasansOverlay \
+    FontSofiasansOverlay  \
+    FontTwcenOverlay 
 
 # Icon Packs
 PRODUCT_PACKAGES += \

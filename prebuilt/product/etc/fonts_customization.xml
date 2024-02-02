@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts-modification version="1">
 
+    <!-- Sofia Sans Condensed-->
+<family customizationType="new-named-family" name="sofiasans">
+	<font weight="400" style="normal">SofiaSansExtraCondensed-Regular.ttf</font>
+	</family>
+	<alias name="sofiasans-regular" to="sofiasans" weight="400" />
+
+    <!-- Harmonia Sans Condensed -->
+   <family customizationType="new-named-family" name="harmoniasans">
+	<font weight="400" style="normal">HarmoniaSansCondensed.ttf</font>
+	</family>
+	<alias name="harmoniasans-regular" to="harmoniasans" weight="400" />
+
+    <!-- TW Cen Condensed-->
+  <family customizationType="new-named-family" name="twcenmt">
+	<font weight="400" style="normal">TwCenMTCondensed.ttf</font>
+	</family>
+	<alias name="twcenmt-regular" to="twcenmt" weight="400" />
+
     <!-- Accuratist -->
     <family customizationType="new-named-family" name="accuratist">
         <font weight="400" style="normal">Accuratist.ttf</font>
