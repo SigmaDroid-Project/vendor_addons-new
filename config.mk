@@ -392,6 +392,16 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
+    
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
     UdfpsAnimations \
