@@ -417,28 +417,23 @@ endif
 PRODUCT_PACKAGES += \
     UnmonetThemeAndroidOverlay \
     UnmonetThemeSettingsOverlay \
-    UnmonetThemeSystemUIOverlay \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
     AndroidVividThemeOverlay \
     PacleggersThemeAndroidOverlay \
     PacleggersThemeSettingsOverlay \
-    PacleggersThemeSystemUIOverlay \
     ShishuAmalgamationThemeAndroidOverlay \
     ShishuAmalgamationThemeSettingsOverlay \
-    ShishuAmalgamationThemeSystemUIOverlay \
     ShishuIllusionsThemeAndroidOverlay \
     ShishuIllusionsThemeSettingsOverlay \
-    ShishuIllusionsThemeSystemUIOverlay \
     ShishuImmensityThemeAndroidOverlay \
     ShishuImmensityThemeSettingsOverlay \
-    ShishuImmensityThemeSystemUIOverlay \
     ShishuNightsThemeAndroidOverlay \
     ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
     SolarizedThemeAndroidOverlay \
-    SolarizedThemeSettingsOverlay \
-    SolarizedThemeSystemUIOverlay
+    SolarizedThemeSettingsOverlay
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
