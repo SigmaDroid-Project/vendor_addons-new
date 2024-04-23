@@ -23,6 +23,7 @@
         <item>cyber</item>
         <item>electronic</item>
         <item>fireworks</item>
+        <item>gt</item>
         <item>magic</item>
         <item>pacman</item>
         <item>scan</item>
@@ -54,6 +55,10 @@
         <item>udfps_rog_fusion_recognizing_anim</item>
         <item>udfps_rog_pulsar_recognizing_anim</item>
         <item>udfps_rog_supernova_recognizing_anim</item>
+        <item>udfps_genshin_fire_recognizing_anim</item>
+        <item>udfps_bubble_recognizing_anim</item>
+        <item>udfps_stardust_recognizing_anim</item>
+        <item>udfps_swirl_recognizing_anim</item>
     </string-array>
 
     <string-array translatable="false" name="udfps_animation_previews">
@@ -63,6 +68,7 @@
         <item>cyber_anim_9</item>
         <item>electronic_anim_7</item>
         <item>fireworks_anim_18</item>
+        <item>gt21</item>
         <item>magic_anim_10</item>
         <item>pacman_anim_18</item>
         <item>scan_anim_12</item>
@@ -94,6 +100,10 @@
         <item>asus_udfps_anim_1_10</item>
         <item>asus_udfps_anim_2_35</item>
         <item>asus_udfps_anim_3_25</item>
+        <item>udfps_genshin_fire_recognizing_anim_22</item>
+        <item>udfps_bubble_recognizing_anim_19</item>
+        <item>udfps_stardust_recognizing_anim_19</item>
+        <item>udfps_swirl_recognizing_anim_19</item>
     </string-array>
 
     <string-array translatable="false" name="udfps_animation_titles">
@@ -103,6 +113,7 @@
         <item>Cyber</item>
         <item>Electronic</item>
         <item>Fireworks</item>
+        <item>GT</item>
         <item>Magic</item>
         <item>Pacman</item>
         <item>Scan</item>
@@ -134,6 +145,10 @@
         <item>Fusion</item>
         <item>Pulsar</item>
         <item>Supernova</item>
+        <item>Genshin fire</item>
+        <item>Bubble</item>
+        <item>Stardust</item>
+        <item>Swirl</item>
     </string-array>
 
 </resources>
