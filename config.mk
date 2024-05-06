@@ -367,9 +367,6 @@ PRODUCT_PACKAGES += \
     ShishuAmalgamationThemeAndroidOverlay \
     ShishuAmalgamationThemeSettingsOverlay \
     ShishuAmalgamationThemeSystemUIOverlay \
-    ShishuIllusionsThemeAndroidOverlay \
-    ShishuIllusionsThemeSettingsOverlay \
-    ShishuIllusionsThemeSystemUIOverlay \
     ShishuImmensityThemeAndroidOverlay \
     ShishuImmensityThemeSettingsOverlay \
     ShishuImmensityThemeSystemUIOverlay \
