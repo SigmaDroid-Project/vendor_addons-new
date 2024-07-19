@@ -413,15 +413,6 @@ PRODUCT_PACKAGES += \
     QSSurroundOverlay \
     QSThinOutlineOverlay
 
-# Volume panel styles
-PRODUCT_PACKAGES += \
-    VSDoubleLayerOverlay \
-    VSGradientOverlay \
-    VSNeumorphOutlineOverlay \
-    VSNeumorphOverlay \
-    VSOutlineOverlay \
-    VSShadedLayerOverlay
-
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
@@ -449,14 +440,14 @@ PRODUCT_PACKAGES += \
     HideSmartSpace \
     SmartSpaceOffset
 
-# Volume Styles
+# Volume panel styles
 PRODUCT_PACKAGES += \
-    VolumeDoubleLayer \
-    VolumeGradient \
-    VolumeNeumorph \
-    VolumeNeumorphOutline \
-    VolumeOutline \
-    VolumeShadedLayer \
+    VSDoubleLayerOverlay \
+    VSGradientOverlay \
+    VSNeumorphOutlineOverlay \
+    VSNeumorphOverlay \
+    VSOutlineOverlay \
+    VSShadedLayerOverlay \
     VolumeAOSPRevamped
 
 # Slit shade (landscape qs style)
