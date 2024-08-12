@@ -2,6 +2,11 @@
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:colorControlHighlight">
     <item>
+        <shape>
+            <solid android:color="#00000000" />
+        </shape>
+    </item>
+    <item>
         <shape android:shape="rectangle">
             <stroke android:width="3.5dp"
                     android:color="@*android:color/qs_color_accent_primary" />
@@ -9,9 +14,13 @@
                 <corners android:radius="@*android:dimen/qs_corner_radius_top" />
         </shape>
     </item>
-    <item>
+    <item
+        android:bottom="4.0dp"
+        android:left="4.0dp"
+        android:right="4.0dp"
+        android:top="4.0dp">
         <shape android:tintMode="multiply">
-            <solid android:color="#40000000" />
+            <solid android:color="@*android:color/qs_color_inactive" />
             <corners android:radius="@*android:dimen/qs_corner_radius_top" />
         </shape>
     </item>
