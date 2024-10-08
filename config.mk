@@ -356,27 +356,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
-# UI styles
-PRODUCT_PACKAGES += \
-    AndroidEspressoThemeOverlay \
-    AndroidSnowPaintDropThemeOverlay \
-    AndroidVividThemeOverlay \
-    PacleggersThemeAndroidOverlay \
-    PacleggersThemeSettingsOverlay \
-    PacleggersThemeSystemUIOverlay \
-    ShishuAmalgamationThemeAndroidOverlay \
-    ShishuAmalgamationThemeSettingsOverlay \
-    ShishuAmalgamationThemeSystemUIOverlay \
-    ShishuImmensityThemeAndroidOverlay \
-    ShishuImmensityThemeSettingsOverlay \
-    ShishuImmensityThemeSystemUIOverlay \
-    ShishuNightsThemeAndroidOverlay \
-    ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay \
-    SolarizedThemeAndroidOverlay \
-    SolarizedThemeSettingsOverlay \
-    SolarizedThemeSystemUIOverlay
-
 # Utility Overlays
 PRODUCT_PACKAGES += \
     HideSmartSpace \
