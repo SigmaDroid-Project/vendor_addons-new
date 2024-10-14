@@ -359,7 +359,8 @@ PRODUCT_PACKAGES += \
 # Utility Overlays
 PRODUCT_PACKAGES += \
     HideSmartSpace \
-    SmartSpaceOffset
+    SmartSpaceOffset \
+    HideClock
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
