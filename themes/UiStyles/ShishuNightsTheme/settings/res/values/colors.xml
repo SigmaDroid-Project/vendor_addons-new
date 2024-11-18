@@ -11,6 +11,7 @@
      License.
 -->
 <resources>
+    <color name="xd_background1">@android:color/transparent</color>
     <color name="mtx_pref_ripple">#1f000000</color>
     <color name="mtx_pref_color">#59ffffff</color>
     <color name="mtx_accent_ripple">@*android:color/system_accent1_500</color>
