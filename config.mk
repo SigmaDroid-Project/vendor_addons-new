@@ -364,16 +364,22 @@ PRODUCT_PACKAGES += \
     AndroidVividThemeOverlay \
     PacleggersThemeAndroidOverlay \
     PacleggersThemeSettingsOverlay \
+    PacleggersThemeSystemUIOverlay \
     ShishuAmalgamationThemeAndroidOverlay \
     ShishuAmalgamationThemeSettingsOverlay \
+    ShishuAmalgamationThemeSystemUIOverlay \
     ShishuIllusionsThemeAndroidOverlay \
     ShishuIllusionsThemeSettingsOverlay \
+    ShishuIllusionsThemeSystemUIOverlay \
     ShishuImmensityThemeAndroidOverlay \
     ShishuImmensityThemeSettingsOverlay \
+    ShishuImmensityThemeSystemUIOverlay \
     ShishuNightsThemeAndroidOverlay \
     ShishuNightsThemeSettingsOverlay \
+    ShishuNightsThemeSystemUIOverlay \
     SolarizedThemeAndroidOverlay \
-    SolarizedThemeSettingsOverlay
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay
 
 # Utility Overlays
 PRODUCT_PACKAGES += \
