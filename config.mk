@@ -357,26 +357,15 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
 
+    # PacleggersThemeAndroidOverlay \
+    # PacleggersThemeSettingsOverlay \
+    # PacleggersThemeSystemUIOverlay \
+
 # UI styles
 PRODUCT_PACKAGES += \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
-    AndroidVividThemeOverlay \
-    PacleggersThemeAndroidOverlay \
-    PacleggersThemeSettingsOverlay \
-    PacleggersThemeSystemUIOverlay \
-    ShishuAmalgamationThemeAndroidOverlay \
-    ShishuAmalgamationThemeSettingsOverlay \
-    ShishuAmalgamationThemeSystemUIOverlay \
-    ShishuImmensityThemeAndroidOverlay \
-    ShishuImmensityThemeSettingsOverlay \
-    ShishuImmensityThemeSystemUIOverlay \
-    ShishuNightsThemeAndroidOverlay \
-    ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay \
-    SolarizedThemeAndroidOverlay \
-    SolarizedThemeSettingsOverlay \
-    SolarizedThemeSystemUIOverlay
+    AndroidVividThemeOverlay
 
 # Utility Overlays
 PRODUCT_PACKAGES += \
